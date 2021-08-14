@@ -1,3 +1,8 @@
+// use procon_reader::ProconReader;
+
 fn main() {
-    unreachable!();
+    // let stdin = std::io::stdin();
+    // let mut rd = ProconReader::new(stdin.lock());
+    
+    todo!();
 }
