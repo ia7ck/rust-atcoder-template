@@ -1,7 +1,8 @@
-use scanner_proc_macro::insert_scanner;
+use proconio::input;
 
-#[insert_scanner]
 fn main() {
-    let n = scan!(usize);
+    input! {
+        n: usize,
+    };
     todo!();
 }
