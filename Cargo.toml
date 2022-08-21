@@ -4,4 +4,4 @@ version = "0.0.0"
 edition = "2021"
 
 [dependencies]
-proconio = { version = "=0.3.6", features = ["derive"] }
+proconio = { version = "=0.3.6" }
